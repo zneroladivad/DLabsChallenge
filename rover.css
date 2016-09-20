@@ -1,0 +1,14 @@
+table{
+	
+	width: 400px;
+	}
+	td 
+	{
+		border: 1px solid black;
+		width:100px;
+		height:100px;
+	}
+	canvas{
+	width:100px;
+		height:100px;
+	}
